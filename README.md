@@ -1,0 +1,2 @@
+# PayEgisDeviceServiceSafe
+通付盾设备指纹SDK不采集IDFA版
